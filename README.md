@@ -1,6 +1,6 @@
 # Front-end Website Design
-这个项目旨在帮助用户进行前端开发，界面整体布局类似word文档。通过使用该平台，用户无需从头学习前段代码，只需要在该网站选择相对应的功能按钮搭建出满意美观的前端页面。
-后期扩展计划帮助用户一起建立相对应的后端平台，实现数据库的调用和更新。
+- This project is designed to assist with front-end development, providing a user-friendly interface similar to a word document. It simplifies the process, allowing users to build attractive front-end pages without learning complex code. By selecting function buttons on the website, users can easily create their own cool web pages.    
+- In our future plans, we aim to expand the platform to help users build the corresponding back-end. This will enable seamless database calls and updates, offering a comprehensive solution for both front-end and back-end development.    
 
 ## 任务要求(随时更新)
 此任务的实现按照scrum的方式，迭代更新要求和优先级排序。  

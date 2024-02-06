@@ -1,4 +1,4 @@
-# WebCraft: Simplified Front-End Development
+# Unleashing Web Mastery from Front to Back
 - This project is designed to assist with front-end development, providing a user-friendly interface similar to a word document. It simplifies the process, allowing users to build attractive front-end pages without learning complex code. By selecting function buttons on the website, users can easily create their own cool web pages.    
 - In our future plans, we aim to expand the platform to help users build the corresponding back-end. This will enable seamless database calls and updates, offering a comprehensive solution for both front-end and back-end development.    
 
